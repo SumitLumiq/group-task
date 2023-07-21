@@ -3,12 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
     <title>Ravikumar bhai ne resolve kar diya</title>
-=======
-    <title>sumit</title>
-    <title>Document "ssdfdsfdsfds"</title>
->>>>>>> 697904e929910d10b88b4c6cf4f5685d6a728a96
+
 </head>
 <body>
     
