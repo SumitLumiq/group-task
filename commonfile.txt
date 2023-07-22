@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>changes Final changes are not merged</title>
+=======
+    <title>This change is made by mohit</title>
+>>>>>>> parent of 49652d4... Changed by mohit
 </head>
 <body>
     <h1>Changes are made by mohit</h1>
