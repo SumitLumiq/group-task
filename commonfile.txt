@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>This change is made by mohit</title>
+    <title>This change is made by mohit and sumit</title>
 </head>
 <body>
     <h1>Changes are made by mohit</h1>
