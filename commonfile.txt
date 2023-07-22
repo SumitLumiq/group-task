@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Final changes are not merged</title>
+    <title>Final changes are not merged and 2nd change</title>
 </head>
 <body>
     <h1>Changes are made by mohit</h1>
