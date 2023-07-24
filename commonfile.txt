@@ -1,11 +1,1 @@
 
-    <title>this is title tag</title>
-    <title>sumit</title>
-    <title>Document "shubham new update"</title>
-</head>
-<body>
-    <h1>Changes are made by mohit</h1>
-    <h1>Changes are made by lokiendar </h1>
-    <p>Added this praragraph</p>
-</body>
-</html>
