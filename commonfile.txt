@@ -6,22 +6,11 @@
 
     <title>this is title tag</title>
     <title>sumit</title>
-<<<<<<< HEAD
-    <title>Document "ssdfdsfdsfds   Happy happy"</title>
-    <title>Document "shubham change kar yash tripathi"</title>
-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</head>
-    <title>Document "yash change phir se kar"</title>
-=======
     <title>Document "shubham new update"</title>
->>>>>>> parent of 697904e (udapte)
 </head>
 <body>
     <h1>Changes are made by mohit</h1>
-<<<<<<< HEAD
-    <h1>changes are made by akhilesh</h1>
-=======
-    <h1>Changes are made by lokiendar and akhil</h1>
->>>>>>> refs/remotes/origin/main
+    <h1>Changes are made by lokiendar </h1>
     <p>Added this praragraph</p>
 </body>
 </html>
